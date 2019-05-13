@@ -1,0 +1,6 @@
+Flask
+opencv-python
+Pillow
+numpy
+requests
+urllib3
